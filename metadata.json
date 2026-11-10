@@ -1,0 +1,6 @@
+{
+  "name": "Life Line Clinic",
+  "description": "Clinic Management and Patient Records System with digital prescriptions, vitals progression tracking, daily consultation records, expense ledger, billing collections, and multi-sheet Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
